@@ -1,0 +1,149 @@
+// https://frontend-api.pump.fun/coins?offset=0&limit=50&sort=last_trade_timestamp&order=DESC&includeNsfw={bool}
+{
+    "mint":"wedeb8gUHEAPaRf1Fj3n2xFZTyRwcyCKRJKwW3opump",
+    "name":"ANON",
+    "symbol":"$ANON",
+    "description":"Hello, Anon.",
+     "image_uri":"https://cf-ipfs.com/ipfs/QmcAh8q3dRMjozB2mmQhRP9DqzQLqer6BSgtmkr3N88WwD",
+     "metadata_uri":"https://cf-ipfs.com/ipfs/QmPV1fd8pnZ1GNJ294TcXDLC1jQhEJctHhX9Pv7B7KX7nN",
+     "twitter":"https://x.com/solanonon",
+     "telegram":"https://t.me/anonsolportal",
+     "bonding_curve":"4DgydAnVy6PVmmDkLizdpw9wDSok2ZwUkwcPm4FGo3Ti",
+     "associated_bonding_curve":"DyGEKxQdvUrNzyqSJveDkEkdm7ydq3P8s83wMWWicKth",
+     "creator":"7geK89tYaevkstvJaYrBuniozVt4hbumPEiifnVjUCcz",
+     "created_timestamp":1718700870263,"raydium_pool":null,
+     "complete":false,
+     "virtual_sol_reserves":40891935760,
+     "virtual_token_reserves":787196776387006,
+     "hidden":null,"total_supply":1000000000000000,
+     "website":"https://solanon.fun/","show_name":true,
+     "last_trade_timestamp":1718700997642,
+     "king_of_the_hill_timestamp":null,
+     "market_cap":51.946269327,
+     "reply_count":1,
+     "last_reply":1718700971371,
+     "nsfw":false,
+     "market_id":null,
+     "inverted":null,
+     "username":"solanondev",
+     "profile_image":"https://cf-ipfs.com/ipfs/QmcAh8q3dRMjozB2mmQhRP9DqzQLqer6BSgtmkr3N88WwD",
+     "usd_market_cap":7164.429465579839
+}
+
+// https://frontend-api.pump.fun/users/{wallet}
+
+{
+    "address":"3KcyeRwenBJ3PobEyjxZzfuhCSg2vrhZ1rGvkFydCFQM",
+    "likes_received":0,
+    "unread_notifs_count":0,
+    "mentions_received":0,
+    "followers":1,
+    "following":0,
+    "username":"3KcyeR",
+    "profile_image":null,
+    "last_username_update_timestamp":0,
+    "bio":"Nothing to see here"
+}
+
+
+// https://frontend-api.pump.fun/coins/king-of-the-hill?includeNsfw={bool}
+{
+    {'mint': 'Hun7KkrQBAmbXmdrGGatJMgDR9jzo1GybHvXULuTpump',
+     'name': 'veshremy',
+      'symbol': 'REMY',
+       'description': 'REMY IS AN OG MEME Tg: https://t.me/REMY_Solana Twitter: https://x.com/Remy_Solana Website: https://veshremy.xyz',
+        'image_uri': 'https://cf-ipfs.com/ipfs/QmdC4a4bcQqM1KUkYKSmGVi7QtTYR5cSPEbYUZXD39R3mq',
+         'metadata_uri': 'https://cf-ipfs.com/ipfs/QmRgKsy5CWiW3dzFyoe2VDRTaJ8kAX2tnRQ5q6HUK33965', 'twitter': 'https://x.com/Remy_Solana', 'telegram':
+ 'https://t.me/REMY_Solana', 'bonding_curve': '67Jd8KaxX9HjJbdCC65X1TxmjfuKxAi9VANtyPtifTBQ', 'associated_bonding_curve': 'yky18dgmByBtfY3tQcJoBS9vEiEtBDWBtYC833kiqdr', 'creator': 'FiwjgGxrWeq4Bjnf9nNFA1wdWZCCZyLqgureN7qpEowi',
+'created_timestamp': 1718876315124, 'raydium_pool': None, 'complete': False, 'virtual_sol_reserves': 54181104672, 'virtual_token_reserves': 594118562235039, 'total_supply': 1000000000000000, 'website': 'https://veshremy.xyz', 's
+how_name': True, 'king_of_the_hill_timestamp': 1718876320552, 'market_cap': 91.195778277, 'reply_count': 0, 'nsfw': False, 'market_id': None, 'inverted': None, 'username': 'FIWDEV', 'profile_image': None}
+
+}
+
+
+// https://frontend-api.pump.fun/coins/{CA}  -> iFrame
+{
+    "mint":"GLMBN59oAM6bNAkhQcq1FNA9AvpUgjtKv2oAfQmQpump",
+    "name":"PufferWifCarrot",
+    "symbol":"AUGH",
+    "description":"A revolutionary meme of a pufferfish eating a carrot then proceeding to make a moaning sound creating the \"AUGH\" meme, originally posted on YouTube in 2020 this pufferfish took the internet by storm and birthed a new wave of memes still used to this day, our pufferfish project aims to honour the life of the beloved AUGH Pufferfish in the form of a Web3 token. AS HE OR SHE WAS BRUTALLY MURDERED AT THE END OF THE RECORDING, AND WAS UNCREDITED FOR AN INSANELY FUNNY MEME",
+    //"image_uri":"https://cf-ipfs.com/ipfs/QmQgvNoUSFChBmSH1Zy6Znzgz5qYj8g9qp4Vxo7vL74FYb",
+    "metadata_uri":"https://cf-ipfs.com/ipfs/QmS4yggdN2facNAz3a1WYunaQqLzMCeNwd9SiR32aivvMZ",
+    //"twitter":"https://x.com/PufferWifCarrot/status/1802906326923960573",
+    //"telegram":"https://t.me/PufferWifCarrot",
+    "bonding_curve":"ERKv84Zvov8rAN9Zs86y8u78z9XFKt7oB24xNRVgfeW7",
+    "associated_bonding_curve":"4ZDo5ZqpgAtrG3i4SCYZ9r7n6d2MR2zRvtiuZNd6zQzR",
+    //"creator":"8x9Ki3oykHS955jX6E3TJtCHrV4bx2Rmu52LrDDbKJbu",
+    "created_timestamp":1718682104772,
+    //"raydium_pool":null,
+    //"complete":false,
+    //"virtual_sol_reserves":71707639927,
+    //"virtual_token_reserves":448906154873116,
+    "total_supply":1000000000000000,
+    //"website":"https://youtu.be/qKxfWd79HFI?si=BrtvwfusKgpvV8LD",
+    "show_name":true,
+    "king_of_the_hill_timestamp":1718685957479,
+    "market_cap":159.738598253,
+    //"reply_count":160,
+    //"last_reply":1718698639375,
+    "nsfw":false,"market_id":null,
+    "inverted":null,
+    //"username":"yess456",
+    "profile_image":null,
+    //"usd_market_cap":22096.64029633749
+}
+
+// https://frontend-api.pump.fun/coins/latest
+
+{
+    "mint":"7wHVrPNfvibxnemgAVL2VbdJoA4jWbx4ZnsLaFFWpump",
+    "name":"LOTA ",
+    "symbol":"LOTA",
+    "description":"Cute isn't it? Presenting you a portable meme dog on which bunch of memes can be made. The beauty and cuteness of this dog is unmatched. Study the potential anon!",
+    "image_uri":"https://cf-ipfs.com/ipfs/QmQG3uEGRoUBbw3napn8iS5jUFpSu3PdLk5x6iCDV1DNPm",
+    "metadata_uri":"https://cf-ipfs.com/ipfs/QmRh2Dsmbg6F4guqTtrJ2TEtoLJzdjWhEXWmiwLhT1sABN",
+    "twitter":null,
+    "telegram":null,
+    "bonding_curve":"BujYD3Wcps9jHiwhV1Bsn14igQP6CpEMH3AxDvf2sK32",
+    "associated_bonding_curve":"E4hnsZ1nZ4oQiGkVupisp6nDLL7K9PHhgrh25grqe7yL",
+    "creator":"BPzt9L1MCoddRtkkXvToJfM1yWewLyxnkqh9VdcDiFCi",
+    "created_timestamp":1718702489211,
+    "raydium_pool":null,
+    "complete":false,
+    "virtual_sol_reserves":32242128950,
+    "virtual_token_reserves":998383203938894,
+    "hidden":null,
+    "total_supply":1000000000000000,
+    "website":null,
+    "show_name":true,
+    "last_trade_timestamp":1718702496830,
+    "king_of_the_hill_timestamp":null,
+    "market_cap":32.294342315,
+    "nsfw":false,
+    "market_id":null,
+    "inverted":null,
+    "real_sol_reserves":2242128950,
+    "real_token_reserves":718483203938894,
+    "livestream_ban_expiry":0,
+    "last_reply":null,
+    "reply_count":0
+}
+
+// https://frontend-api.pump.fun/sol-price
+{
+  "solPrice": 138.23
+}
+
+
+// https://frontend-api.pump.fun/trades/latest
+{
+  "signature": "66exu3S7ZTXsy7tnBS6Mz4rsHdT363L6qUgKM55sGuib1Lj2TCmKfYdRWikqQwzRqoGFaXTTtFavrJ7pWVc7jDcX",
+  "mint": "7LbGTauoV7kxBmK85zDbKXDWGcWtWso2KdLFJi9vpump",
+  "sol_amount": 19922807,
+  "token_amount": 518030366223,
+  "is_buy": true,
+  "user": "GBs2vMsgz9VMZWeXNMskzfcUku8iqqbAE5yxb1hrknts",
+  "timestamp": 1718704486,
+  "symbol": "FRED",
+  "image_uri": "https://cf-ipfs.com/ipfs/QmRs2f2pRvQYxFtgV6CNQDxNxhpdHRbX2ZTx8zWj94qJW2"
+}
